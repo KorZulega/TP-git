@@ -1,4 +1,4 @@
-### Application.bash - 2019 - Guillaume Brancon ###
+### Application.bash - 2019 - Guillaume Brancon INVITATION A UN BOIRE UNE PETIT VERRE UN JEUDI SOIR PAR MARTIN GUYOT ###
 
 echo "IIA LAVAL - 2019"
 
