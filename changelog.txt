@@ -1,0 +1,23 @@
+commit f73a826f57a3d9822bec0742fa3952d12b805eab
+Author: Guillaume Brancon <g.brancon@iia-laval.fr>
+Date:   Fri Feb 8 12:24:03 2019 +0100
+
+    display copyright
+
+commit 615b77053ad46b9bf9d3288272fe609a18c0ab8d
+Author: Guillaume Brancon <g.brancon@iia-laval.fr>
+Date:   Fri Feb 8 12:22:15 2019 +0100
+
+    Add file header
+
+commit 8549299a346a512c0b91f2788698cc174a6d907a
+Author: Guillaume Brancon <g.brancon@iia-laval.fr>
+Date:   Fri Feb 8 12:20:07 2019 +0100
+
+    Add build time
+
+commit 30df8c4cf8b5e760ef5f3dd0a1a618f81aeb7812
+Author: Guillaume Brancon <g.brancon@iia-laval.fr>
+Date:   Fri Feb 8 12:17:26 2019 +0100
+
+    Initial commit
