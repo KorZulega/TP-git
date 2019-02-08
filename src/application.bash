@@ -2,7 +2,8 @@
 
 echo "IIA LAVAL - 2019"
 
-version = "1.2.0-b"
+version = "2.0.0"
+
 build_hour ="11H00"
 
 echo "Build ${build_hour}"
